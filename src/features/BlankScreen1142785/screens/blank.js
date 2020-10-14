@@ -31,7 +31,8 @@ export class _Blank extends React.Component {
         onPress={() => this.props.navigation.navigate("BlankScreen0142784")}
       >
         <Text style={styles.Text_6}>
-          When this text is pressed, go to blank screen 0
+          When this text is pressed, go to blank screen 0 -- removed event for
+          now
         </Text>
       </TouchableOpacity>
       <View style={styles.View_10}>
